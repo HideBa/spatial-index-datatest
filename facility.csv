@@ -1,4 +1,4 @@
-facil_id,facil_type,name_ja,name_en,address,tel,lat,lon,toilet,elevator,escalator,parking,barrier,nursing,brail_tile,name_hira,fax,mail,start_time,end_time,no_serv_d,info,info_board,move_floor,sex,fee,subject,close_day,evacuation,temporary,med_dept,flood,ent1_lat,ent1_lon,ent1_n,ent1_w,ent1_d,ent1_brr,ent1_fl
+facil_id,facil_type,name_ja,name_en,address,tel,緯度,軽度,toilet,elevator,escalator,parking,barrier,nursing,brail_tile,name_hira,fax,mail,start_time,end_time,no_serv_d,info,info_board,move_floor,sex,fee,subject,close_day,evacuation,temporary,med_dept,flood,ent1_lat,ent1_lon,ent1_n,ent1_w,ent1_d,ent1_brr,ent1_fl
 6CBB790EBAAB3861BC72FDB334798073,99,99,99,99,99,35.6269980555556,139.7781075,99,99,99,99,99,1,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,,,,99,99,99,
 5E7F9045C17A39E3875337E0DEAE6A4E,99,99,99,99,99,35.6268997222222,139.778286666667,99,99,99,99,99,1,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,99,,,,99,99,99,
 AB60F5D8B73C302A86BA09293D8FA6A0,10,99,99,99,99,35.6238469444444,139.775097222222,99,99,99,99,99,1,99,99,99,99,99,99,99,99,3.0,99,3.0,1.0,99,99,99,99,99,99,,,,99,99,99,
